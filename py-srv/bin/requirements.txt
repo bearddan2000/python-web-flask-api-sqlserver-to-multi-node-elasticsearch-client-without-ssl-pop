@@ -1,0 +1,5 @@
+elasticsearch>7,<8
+elasticsearch-dsl
+flask
+pymssql
+sqlalchemy
